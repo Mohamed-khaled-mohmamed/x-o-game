@@ -1,4 +1,4 @@
-# # X-O Game Project
+# X-O Game Project
 
 ## Overview
 
